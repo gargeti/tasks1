@@ -1,7 +1,7 @@
 # tasks1
 Impledge Task submission 
 Overview 
-This program is designed to iden fy the longest compound word and the second-longest 
+This program is designed to identify the longest compound word and the second-longest 
 compound word in a given list of words. A compound word is defined as a word formed by 
 combining two or more shorter words from the same list. 
 The program processes two input files (Input_01.txt and Input_02.txt), each containing a list 
